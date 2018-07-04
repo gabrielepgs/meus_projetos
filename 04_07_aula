@@ -1,0 +1,15 @@
+EXERCÍCIO: Passe as instruções a uma criança para que ela encontre a carta três de copas 
+em um baralho.
+
+
+ENQUANTO houver cartas no momento, REPITA;
+------------------------------------------
+- Pegue uma carta;
+- Verifique a face com letras OU numeros;
+- Se a carta tiver um numero 3 E um coração vermelho:
+    - Diga ENCONTROU;
+    - FIM;
+-Se não, jogue fora a carta que pegou;
+
+-------------------------------------------
+Diga NÃO ENCONTROU; 

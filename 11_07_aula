@@ -1,2 +1,20 @@
-flex-direction - row / row reverse; colum ** Organica os elementos da pagina
-flex-wrap - Distribuir os elementos na pagina
+flex-box - responsividade;
+flex-direction - row / row reverse; colum ** Organica os elementos da pagina;
+flex-wrap - Distribuir os elementos dentro da div mãe;
+justify-content -  Alinha e espaça os elementos dentro da div mãe na horizontal; 
+align-items -  Alinha e espaça os elementos dentro da div mãe na vertical; 
+align-content -  Alinha e espaça do conteudo dentro da div mãe na vertical (quando tem mais de uma linha ); 
+overflow -  não permite ter barra de rolagem vertical ou horizontal;
+max-widht - define o tamanho maximo que uma imagem pode ter;
+vw - forma de medir elementos 
+box-size : border-box (limina a acupaçpão dos elementos internos, para não ultrapassar a DIV.)
+
+@media é usado para identificar midia query no CSS - breakpoint
+Sempre desenvolver media query de acordo com condeudo, não tamanho da tela, pois a variação do tamanho da tela 
+sem extremamente variadas. 
+Método de desenvolvimento mobile first.
+
+cabeçalho com menu 
+barrinha de pesquisa no cabeçalho
+
+alguns itens para venda
